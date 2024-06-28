@@ -2,6 +2,8 @@
 Analyzed survey data from data professionals to identify trends, preferences, and areas for improvement within the data profession.
 ## Tools Used: 
 Power BI,Excel
+![Data Professional Suvey](https://github.com/VihoshiniSaravanan/Data_Professional_Survey/assets/173756615/67199265-d694-4409-a7ca-c135b9451905)
+
 
 #### Actions Taken:
 
